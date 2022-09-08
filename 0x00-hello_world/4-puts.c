@@ -1,11 +1,11 @@
 #include<stdio.h>
 
 /**
- *main - Printing
+ *main - eentry point
  *
- *Return: Always 0 (Successful)
+ *Return: 0 after printing the function
  */
-int main(Void) 
+int main(void) 
 
 { 
  puts("\"Programming is like building a multilingual puzzle");
