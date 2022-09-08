@@ -5,7 +5,7 @@
  *
  *Return:Always 0 (success)
  */
-int main(Void)
+int main(void)
 { char a;
 	int b;
 	long int c;
